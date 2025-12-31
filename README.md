@@ -2,6 +2,8 @@
 
 A beautiful, immersive companion website for tracking your progress through Forza Horizon 4's "Gentleman's Tour" campaign.
 
+🌐 **Live Site**: [https://ns-1456.github.io/FH4-Progression-Website/](https://ns-1456.github.io/FH4-Progression-Website/)
+
 ## Features
 
 - **Era-Based Progression**: Track your journey through 6 distinct eras (1950s → Hypercars)
